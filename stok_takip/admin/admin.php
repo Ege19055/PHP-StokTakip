@@ -1,0 +1,1 @@
+<?php include 'admin_ekran/admin.php'; ?>
